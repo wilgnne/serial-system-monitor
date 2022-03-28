@@ -1,0 +1,4 @@
+PySensors
+pyserial
+psutil
+
